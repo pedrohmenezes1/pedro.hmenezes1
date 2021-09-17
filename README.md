@@ -15,12 +15,11 @@
 ## 🚀 Minhas Skills
 
 <code><img height="33" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="Javascript"/></code>
+<code><img height="36" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java"/></code>
 <code><img height="33" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5"/></code>
 <code><img height="33" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS"/></code>
 <code><img height="33" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
-<code><img height="33" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin"/></code>
 <code><img height="33" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="CSharp"/></code>
-<code><img height="36" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java"/></code>
 <code><img height="36" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown"/></code>
 
 ---
