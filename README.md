@@ -7,7 +7,7 @@
 
 #### Explorando novas tecnologias e desenvolvendo soluções de software.
 
-🔭 Iniciando na área de desenvolvimento e cybersecurity.
+🔭 Iniciando na área de desenvolvimento.
 
 
 ## 🚀 Minhas Skills
